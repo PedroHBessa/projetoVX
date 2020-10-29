@@ -1,0 +1,20 @@
+.imagem, .texto, .linhas, .dividir{
+	display: none;
+	
+}
+
+.imagem2, .texto2, .linhas2, .dividir2{
+	display: none;
+	
+}
+
+.imagemPai{
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+
+body{
+	text-align: center;
+}
+
