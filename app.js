@@ -2,7 +2,6 @@
 
 var numTr = 0;
 var tr = 'tr';
-numTr;
 var bool = true;
 var numberTr;
 var trPai;
